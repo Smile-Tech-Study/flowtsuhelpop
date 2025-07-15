@@ -8,7 +8,7 @@ description: >-
 
 1. Скачайте приложение Яндекс.Ключ на ваш смартфон, авторизируйтесь в приложении.
 
-Ссылка для скачивания [RuStore](https://www.rustore.ru/catalog/app/ru.yandex.key)&#x20;
+Ссылка для скачивания [RuStore](https://www.rustore.ru/catalog/app/ru.yandex.key)
 
 Ссылка для скачивания [Google Play](https://play.google.com/store/apps/details?id=ru.yandex.key) (Минимальная версия Android: Android 6.0. Рекомендуемая версия: Android 10+)
 

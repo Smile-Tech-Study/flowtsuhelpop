@@ -1,6 +1,6 @@
 # Документы о квалификации
 
-Добавление документа о квалификации во Flow&#x20;
+Добавление документа о квалификации во Flow
 
 После успешного [завершения обучения](https://informa.gitbook.io/odin/instrukcii-po-rabote/dlya-administratorov/zavershenie-obucheniya-programm-sodeistviya-zanyatosti) гражданину необходимо добавить документ о квалификации.
 

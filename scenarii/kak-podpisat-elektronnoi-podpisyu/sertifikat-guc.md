@@ -4,7 +4,7 @@ description: Головной удостоверяющий центр - ГУЦ
 
 # Сертификат ГУЦ
 
-## Сертификат доступен по ссылке [https://ca.gisca.ru/support/repository/](https://ca.gisca.ru/support/repository/)&#x20;
+## Сертификат доступен по ссылке [https://ca.gisca.ru/support/repository/](https://ca.gisca.ru/support/repository/)
 
 **\[ГОСТ 34.10-2012] Минкомсвязь России:**
 

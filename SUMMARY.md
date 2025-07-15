@@ -46,7 +46,7 @@
 * [Документы о квалификации](prikazy-dokumenty-o-kvalifikacii/dokumenty-o-kvalifikacii/README.md)
   * [Массовый импорт](prikazy-dokumenty-o-kvalifikacii/dokumenty-o-kvalifikacii/massovyi-import.md)
 
-## Сценарии&#x20;
+## Сценарии
 
 * [Как подписать электронной подписью?](scenarii/kak-podpisat-elektronnoi-podpisyu/README.md)
   * [КриптоПРО](scenarii/kak-podpisat-elektronnoi-podpisyu/kriptopro.md)
