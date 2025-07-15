@@ -23,6 +23,6 @@ description: >-
 
 Примеры таких шаблонов:
 
-![](<../.gitbook/assets/Шаблон ПО (1).xlsx" %}
+![](<../.gitbook/assets/Шаблон ПО (1).xlsx>)
 
-![](<../.gitbook/assets/Шаблон ДПО (1).xlsx" %}
+![](<../.gitbook/assets/Шаблон ДПО (1).xlsx>)
