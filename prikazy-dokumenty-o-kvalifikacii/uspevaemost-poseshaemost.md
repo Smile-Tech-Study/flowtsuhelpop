@@ -56,7 +56,8 @@
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+:::danger
+
 Обратите внимание!
 
 **Названия столбцов в выгрузке для ЦЗН  = полям для заполнения на РР в задаче «Сведения о посещаемости и успеваемости».**&#x20;
