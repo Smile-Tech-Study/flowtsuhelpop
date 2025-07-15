@@ -23,6 +23,6 @@ description: >-
 
 Примеры таких шаблонов:
 
-{% file src="../.gitbook/assets/Шаблон ПО (1).xlsx" %}
+![](<../.gitbook/assets/Шаблон ПО (1).xlsx" %}
 
-{% file src="../.gitbook/assets/Шаблон ДПО (1).xlsx" %}
+![](<../.gitbook/assets/Шаблон ДПО (1).xlsx" %}
