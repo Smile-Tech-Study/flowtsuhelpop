@@ -45,7 +45,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/photo_2024-04-26 15.06.07.jpeg" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Обратите внимание, в заменяемом **файле** - скане приказа:
 
 * **номер приказа**,
@@ -65,7 +66,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (212).png" alt="" width="375"><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Все замены документов логируются, то есть будет записано, какой именно пользователь произвел замену какого документа.&#x20;
 
 :::

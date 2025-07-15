@@ -47,7 +47,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Задача может оказаться просроченной через одни сутки (учитываются рабочие дни) после генерации договора. Отслеживайте появление задач на подписание ежедневно.
 
 :::
