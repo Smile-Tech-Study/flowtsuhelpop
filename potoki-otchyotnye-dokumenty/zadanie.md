@@ -33,7 +33,8 @@
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
+:::tip
+
 Только после этого в ЛК образовательного партнёра появится Задание на поток.
 {% endhint %}
 
