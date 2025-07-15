@@ -42,12 +42,12 @@ description: >-
 
 1.  Отфильтровать назначенные задачи, используя фильтр содержит "Подписание"
 
-    ![](<../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+    ![](<../../.gitbook/assets/image (56).png>)
 
 
 2. Открыть  ->  Ознакомится с файлом договора -> отметить галочку "Подписать" (в случае необходимости "Предложить изменения"/"Отказаться от подписания") ->  Сохранить -> Отправить
 
-![](<../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (57).png>)
 
 :::info
 

@@ -4,11 +4,11 @@
 
 В системе есть выгрузка для ЦЗН, она доступна на странице образовательной программы по одноименной кнопке.&#x20;
 
-![](<../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (223).png>)
 
 В выгрузке для ЦЗН будет отображена следующая информация:
 
-![](<../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (224).png>)
 
 ## Как переносить данные на портал РР?
 
@@ -49,12 +49,12 @@
 
 :::
 
-![](<../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (29).png>)
 
 3. Заполните "сведения о посещаемости и успеваемости", скопировав их из выгрузки для ЦЗН из Odin.
 4. Нажмите "Сохранить" и  "Выполнить".
 
-![](<../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (30).png>)
 
 :::danger
 

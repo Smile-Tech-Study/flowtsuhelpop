@@ -24,7 +24,7 @@
 
 :::
 
-![](<../../.gitbook/assets/Untitled (1).jpg" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/Untitled (1).jpg>)
 
 ***
 

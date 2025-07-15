@@ -20,19 +20,19 @@ description: >-
 
 1. После запуска  выбрать "Настраиваемая установка", затем "Далее".
 
-![](<../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (109).png>)
 
 2. Выбрать для "КриптоАРМ" вариант «Этот компонент и его подкомпоненты будут установлены на локальный жесткий диск» и нажать "Далее".
 
-![](<../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (110).png>)
 
 3. Ознакомиться и принять "Лицензионное соглашение".
 
-![](<../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (111).png>)
 
 &#x20;4\. После установки нажать "Готово".
 
-![](<../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (112).png>)
 
 :::info
 
@@ -44,20 +44,20 @@ description: >-
 
 1. Открыть КриптоАРМ (Для КриптоАРМ на рабочем столе будет создан ярлык, необходимо кликнуть по нему).
 
-![](<../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (113).png>)
 
 2. &#x20; В пункте меню "Помощь" установить лицензию.
 
-![](<../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (114).png>)
 
 3. Прописать лицензионные ключи и нажать "Ок".&#x20;
 4. Выбрать в меню КриптоАРМ "Профили" - "Управление профилями" -"Создать".
 
-![](<../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (115).png>)
 
 5\. В пункте «Общие» прописать имя профиля и указать сертификат пользователя с помощью кнопки «Выбрать».
 
-![](<../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (116).png>)
 
 6. В пункте "Подпись" установить формат подписи на "Усовершенствованная".&#x20;
 
@@ -67,11 +67,11 @@ description: >-
 
 :::
 
-![](<../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (117).png>)
 
 7. В пункте "TSP" в поле "Адрес службы штампов времени" указать адрес службы штампов времени (например, [http://tax4.tensor.ru/tsp/tsp.srf](http://tax4.tensor.ru/tsp/tsp.srf)).
 
-![](<../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (119).png>)
 
 8. В пункте "OCSP" в поле "Адрес сервера" необходимо указать адрес OCSP сервера, указанный указан в свойствах сертификата пользователя.
 
@@ -81,19 +81,19 @@ description: >-
 
 -Скопировать URL.&#x20;
 
-![](<../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (120).png>)
 
 -Вставить полученный URL&#x20;
 
-![](<../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (121).png>)
 
 9. Выбрать в пункте "Профили" созданный профиль "По умолчанию".
 
-![](<../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (123).png>)
 
 10. Выполнить настройку в пункте "Режимы" (по желанию - необязательное условие).
 
-![](<../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (122).png>)
 
 **Настройка завершена. Поздравляем!**\
 
@@ -110,11 +110,11 @@ description: >-
 2. Нажать "Подписать".
 3. Выбрать файл для подписи.
 
-![](<../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (124).png>)
 
 4. Ввести пин-код вашей Электронной подписи и нажмите "ОК".
 
-![](<../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (125).png>)
 
 В каталоге на компьютере будет 2 файла:&#x20;
 
@@ -123,7 +123,7 @@ description: >-
 
 &#x20;Файл с открепленной подписью в формате SIG необходимо загрузить во Flow.
 
-![](<../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (126).png>)
 
 :::info
 

@@ -28,4 +28,4 @@ description: >-
 
 В системе доступна информация по количеству регионов с программами в определенном статусе. Столбцы по умолчанию скрыты.&#x20;
 
-![](<../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (222).png>)

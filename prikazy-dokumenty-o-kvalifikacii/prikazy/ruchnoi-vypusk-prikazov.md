@@ -6,7 +6,7 @@
 
 Добавьте приказ через пункт меню "Обучение" - "Приказы" - "Создать".
 
-![](<../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (208).png>)
 
 ## Шаг 2. Заполнение данных о приказе
 
@@ -42,7 +42,7 @@
 
 При редактировании приказа возможно добавить скан-копию приказа, изменить дату выпуска и номер приказа. Для этого в пункте меню "Обучение" - "Приказы" напротив изменяемого приказа нажмите кнопку "Редактировать".
 
-![](<../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (209).png>)
 
 ## Шаг 3. Назначение приказа гражданину <a href="#shag-3.-naznachenie-prikaza-grazhdaninu" id="shag-3.-naznachenie-prikaza-grazhdaninu"></a>
 
@@ -51,11 +51,11 @@
 3. Откройте заявку.
 4. В блоке "Обучение" нажмите на кнопку "Редактировать". Если для этой программы и этого потока приказ уже создан, вы сможете его назначить.
 
-![](<../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (210).png>)
 
 По кнопке "Изменить" доступны приказы, добавленные для потока, где обучается гражданин. Надо выбрать верный и нажать на "Сохранить""
 
-![](<../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (211).png>)
 
 ## Статусы заявок для назначения приказов <a href="#statusy-zayavok-dlya-naznacheniya-prikazov" id="statusy-zayavok-dlya-naznacheniya-prikazov"></a>
 
