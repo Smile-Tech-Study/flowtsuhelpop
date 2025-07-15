@@ -11,7 +11,7 @@ description: >-
 Рассмотрим  2 примера:\
 
 
-{% tabs %}
+[tabs]
 {% tab title="КонтурКрипто" %}
 Проверка подписи в сервисе [https://crypto.kontur.ru/](https://crypto.kontur.ru/) бесплатна.
 
