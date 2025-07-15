@@ -21,7 +21,7 @@ description: >-
 
 На странице заявки в блоке сканы документов надо выбрать "Действия с документами", далее функцию "Создать/Заменить документы". Кнопка будет доступна пользователям, которым открыт доступ к Созданию/редактированию документов.
 
-<figure><img src="../.gitbook/assets/photo_2024-04-26 15.04.39.jpeg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-04-26 15.04.39.jpeg" alt=""><figcaption></figcaption></figure>
 
 1. Нажмите кнопку "Создать/заменить документы"
 2. Выберите документ, который необходимо заменить.&#x20;
@@ -44,7 +44,7 @@ description: >-
 
 Возможность замены скана приказа  доступна представителю образовательного партнера.
 
-<figure><img src="../.gitbook/assets/photo_2024-04-26 15.06.07.jpeg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/photo_2024-04-26 15.06.07.jpeg" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -65,7 +65,7 @@ description: >-
 
 Необходимо написать обращение [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form), скачать и заполнить [бланк](https://docs.google.com/document/d/1lU2tVwDKBB_V_Dv718ETFPNbllp5j0CY/edit?usp=sharing\&ouid=114670627208098431049\&rtpof=true\&sd=true), где вы укажете данные документоведов вашей образовательной организации, кто получит доступ на замену/редактирование документов граждан.&#x20;
 
-<figure><img src="../.gitbook/assets/image (212).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (212).png" alt="" width="375"><figcaption></figcaption></figure>
 
 :::info
 

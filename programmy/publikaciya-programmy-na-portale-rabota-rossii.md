@@ -66,15 +66,15 @@ description: >-
 
 Для просмотра образовательных программ необходимо в Личном кабинете образовательной организации перейти в список образовательных программ ("Справочники" – "Образовательные программы").
 
-<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 В верхней части списка образовательных программ отображается интерфейс, в котором можно задать значения атрибутов для фильтрации списка.
 
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 Сортировку списка образовательных программ (например, по дате создания) можно осуществлять нажатием на заголовки столбцов в списке.
 
-<figure><img src="../.gitbook/assets/image (162).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (162).png" alt="" width="375"><figcaption></figcaption></figure>
 
 :::info
 
@@ -86,11 +86,11 @@ description: >-
 
 :::
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 В нижней части списка образовательных программ отображается количество записей (с учетом фильтрации) и постраничная навигация всех найденных программ.
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 Для просмотра карточки образовательной программы с подробной информацией необходимо выбрать её в этом списке и открыть.
 
@@ -101,7 +101,7 @@ description: >-
 * "Данные образовательной программы" – список полей образовательной программы и их значений;
 * "История" – список переходов между статусами образовательной программы с возможностью открытия каждого перехода и просмотра сведений (начальный статус, конечный статус, пользователь-инициатор, для непрошедшей модерацию образовательной программы – причина отклонения).
 
-<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 ## Добавление и публикация
 
@@ -109,7 +109,7 @@ description: >-
 
 ## Шаг 1. Нажать кнопку "Добавить"
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 2. Заполнить данные
 
@@ -123,7 +123,7 @@ description: >-
 2. Перейти на вкладку Копировать на РР.
 3. Поочередно копировать информацию каждого поля и вставлять в форму создания программы на портале РР
 
-<figure><img src="../.gitbook/assets/image (70).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (70).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -165,11 +165,11 @@ description: >-
 
 #### **4.1** Скопировать кликом мыши на иконку "Копировать" поле "полное описание" на странице программы во Flow.
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 #### **4.2** Перейти на РР и на странице создания программы в поле «Полное описание» кликнуть на кнопку «Источник»
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -213,7 +213,7 @@ description: >-
 
 :::
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -263,7 +263,7 @@ description: >-
 
 Для этого следует открыть карточку образовательной организации и нажать кнопку «На модерацию». (На модерацию программа отправляется в каждом регионе, где согласовано её проведение.)
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 ### 5.2 Дождаться проверки
 
@@ -280,7 +280,7 @@ description: >-
 
 Программу возможно отредактировать и повторно отправить **На модерацию**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -318,4 +318,4 @@ description: >-
 
 Отправка образовательной программы в архив возможна в статусах «Черновик», «На доработке», «Скрыто». **После отправки образовательной программы в архив любые действия с ней будут невозможны.**
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>

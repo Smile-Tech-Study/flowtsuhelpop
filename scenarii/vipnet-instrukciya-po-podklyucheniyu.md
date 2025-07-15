@@ -33,11 +33,11 @@
 
 Стоимость для ОС Windows
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Стоимость для ОС Linux
 
-<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 _После получения ПО ViPNet Client необходимо получить и установить ключи шифрования для получения доступа к ЗСПД 15224. В случае оплаты услуг по установке ключи передаются и устанавливаются специалистом "Маск Сэйф" при установке ПО. В случае отказа услуг по установке ключи передаются компанией "Маск Сэйф" по электронной почте в виде зашифрованного архива. Пароль от архива можно будет узнать по телефону (3822) 900-110 назвав номер счёта, по которому куплено ПО. В этом случаем установку ПО и ключей шифрования организация осуществляется самостоятельно._
 
@@ -45,13 +45,13 @@ _После получения ПО ViPNet Client необходимо полу�
 
 На сайте необходимо скачать дистрибутив.
 
-<figure><img src="../.gitbook/assets/image (74).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (74).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 3
 
 При “Оформлении заявки” на дистрибутив необходимо ввести данные: Название организации, ФИО, актуальный email на который придет ссылка на скачивание дистрибутива ViPNetClient.
 
-<figure><img src="../.gitbook/assets/image (75).png" alt="" width="176"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (75).png" alt="" width="176"><figcaption></figcaption></figure>
 
 ## Шаг 4
 
@@ -63,31 +63,31 @@ _После получения ПО ViPNet Client необходимо полу�
 
 После завершения скачивания .zip архива, необходимо распаковать .zip архив.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (76).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 6
 
 В распакованном архиве необходимо запустить установку через .exe файл.
 
-<figure><img src="../.gitbook/assets/image (77).png" alt="" width="294"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (77).png" alt="" width="294"><figcaption></figcaption></figure>
 
 ## Шаг 7
 
 Необходимо нажать на галку “Я принимаю условия лицензионного соглашения” и нажать на кнопку “Установить”.
 
-<figure><img src="../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 8
 
 После установки ViPNet Client программа предложит Вам выполнить перезагрузку. Выполните перезагрузку.
 
-<figure><img src="../.gitbook/assets/image (79).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (79).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 9
 
 При загрузке компьютера всплывет окно:
 
-<figure><img src="../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (80).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Нажимаем кнопку “Да”.
 
@@ -95,17 +95,17 @@ _После получения ПО ViPNet Client необходимо полу�
 
 Далее необходимо выбрать ключи для установки:
 
-<figure><img src="../.gitbook/assets/image (81).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (81).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 11
 
 Нажимаем на кнопку “Обзор” и указываем пуь до ключей которые были высланы в защищенном архиве полученного от системного администратора по почте. В защищенном архиве располагается файл ключей .dst.
 
-<figure><img src="../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (82).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Выбираем файл с расширением .dst в качестве файла ключей.
 
-<figure><img src="../.gitbook/assets/image (83).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (83).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Нажимаем на кнопку “Установить”.
 
@@ -113,29 +113,29 @@ _После получения ПО ViPNet Client необходимо полу�
 
 После сообщения "Ключи успешно установлены", нажимаем кнопку закрыть.
 
-<figure><img src="../.gitbook/assets/image (84).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (84).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Шаг 13
 
 Запустите приложение ViPNet Client:
 
-<figure><img src="../.gitbook/assets/image (85).png" alt="" width="132"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (85).png" alt="" width="132"><figcaption></figcaption></figure>
 
 ## Шаг 14
 
 Вам откроется окно авторизации пользователя, здесь Вам необходимо ввести пароль который прислал Вам системный администратор в архиве вместе с ключами. Пароль в формате. xsp необходимо открыть. Что бы это сделать рекомендуем воспользоваться [ресурсом](https://products.aspose.app/page/ru/viewer/xps), перейдя по ссылке нажмите на кнопку “поиск файла”.
 
-<figure><img src="../.gitbook/assets/image (86).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (86).png" alt="" width="563"><figcaption></figcaption></figure>
 
 В обзоре укажите путь до файла .xsp, который был выслан Вам системным администратором.
 
-<figure><img src="../.gitbook/assets/image (87).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (87).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 15
 
 Далее необходимо нажать на кнопку “Просмотреть”.
 
-<figure><img src="../.gitbook/assets/image (88).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (88).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 16
 
@@ -145,13 +145,13 @@ _После получения ПО ViPNet Client необходимо полу�
 
 После того как Вы узнали свой пароль вы можете вводить его в окне авторизации (см. пункт 14).
 
-<figure><img src="../.gitbook/assets/image (153).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (153).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Шаг 18
 
 После всех пунктов в программе ViPNet Client в пункте “Защищенная сеть” должно быть доступно: "Координатор ЦА Роструд" и "Координатор ЦОД Роструд".
 
-<figure><img src="../.gitbook/assets/image (73).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (73).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Шаг 19
 

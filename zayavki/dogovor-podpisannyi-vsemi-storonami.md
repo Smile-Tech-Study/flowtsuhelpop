@@ -5,8 +5,8 @@
 
 Для этого в блоке "Сканы документов" нажмите "Действия с документами" ->  Загрузить договор, подписанный всеми сторонами. Выберите документ и сохраните.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Договор добавляется как второй документ к договору, загруженному гражданином из ЛК. На образе появляется значок "Печать"
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

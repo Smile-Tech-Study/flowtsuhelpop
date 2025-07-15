@@ -13,7 +13,7 @@ description: В отчёт попадут только те граждане, ч
 
 На странице потока во Flow (Образование - Потоки обучения - кликнуть по названию потока) представитель Федерального оператора генерирует/сортирует таблицу по столбцу Отчеты - статус "Готов к генерации", генерирует отчет.
 
-<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 Далее скачивает бланк отчета, подписывает и загружает во Flow.
 
@@ -78,4 +78,4 @@ description: В отчёт попадут только те граждане, ч
 
 Подписан -  в потоке есть отчёты, подписанные со стороны Федерального оператора.
 
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>

@@ -18,16 +18,16 @@ description: >-
 3. Введите логин и пароль от FLOW.
 4. Если учетная запись ещё не привязана к Яндекс.Ключ, то отобразится QR код.
 
-<figure><img src="../.gitbook/assets/image (190).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (190).png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Откройте Яндекс.Ключ на телефоне и нажмите знак «+», чтобы добавить новый аккаунт. (НЕ выбирайте "Войти через QR).
 
-<figure><img src="../.gitbook/assets/image (191).png" alt="" width="232"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (191).png" alt="" width="232"><figcaption></figcaption></figure>
 
 5. Нажмите "Сканировать QR" и наведите камеру на QR-код, отображенный в браузере.
 
-<figure><img src="../.gitbook/assets/image (192).png" alt="" width="162"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (192).png" alt="" width="162"><figcaption></figcaption></figure>
 
 6. Для завершения настройки введите код, созданный Яндекс.Ключ, в поле "Код подтверждения" во Flow.
 
-<figure><img src="../.gitbook/assets/image (207).png" alt="" width="276"><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (207).png" alt="" width="276"><figcaption></figcaption></figure>

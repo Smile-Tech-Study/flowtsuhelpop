@@ -12,13 +12,13 @@
 
 Также найти любую заявку или элемент системы можно через глобальный поиск, который расположен в левой части страницы в меню.&#x20;
 
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 ### **Страница заявки**&#x20;
 
 **Во Flow   страница разделена на 5 блоков**
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
