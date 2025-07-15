@@ -43,7 +43,7 @@ description: >-
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 В первом варианте  всё хорошо, во втором следует переподписать документ. То есть, скачать бланк и,  **ничего в нем не меняя (не перименовывать бланк, не пересохранять его его тем же названием)**, подписать ещё раз.
-{% endtab %}
+[/tab]
 
 [tab:КриптоАРМ" %}
 1. Откройте Крипто АРМ и выберите пункт "Проверить ЭП".&#x20;
@@ -61,5 +61,5 @@ description: >-
 4. Проверьте детали подписи.
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+[/tab]
 {% endtabs %}
