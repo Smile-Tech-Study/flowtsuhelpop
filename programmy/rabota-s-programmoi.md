@@ -8,7 +8,7 @@ title: Работа с программой
 
 :::info 
 
-Программа создаётся в Odin. [Подробнее](https://informa.gitbook.io/odin/instrukcii-po-rabote/dobavit-programmu-v-ramkakh-proekta-kadry)
+Программа создаётся в Odin. [Подробнее](https://gramax.smile-tech.study/helpOdin/instrukcii-po-rabote/dobavit-programmu-v-ramkakh-proekta-kadry)
 
 :::
 
@@ -57,5 +57,3 @@ title: Работа с программой
 После отправки программы на согласование необходимо добавить на её странице информацию о работодателе.
 
 ![](./rabota-s-programmoi.png){width=887px height=122px}
-
-
