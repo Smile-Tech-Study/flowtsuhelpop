@@ -1,4 +1,6 @@
-# Автоматический выпуск приказов
+---
+title: Автоматический выпуск приказов
+---
 
 ## Генерация приказа на зачисление
 
@@ -26,5 +28,4 @@
 1. В один **приказ об отчислении** при **неуспешном** завершении обучения  будут попадать  все граждане одного потока, у кого закончилось обучение и выставлен статус в Odin  **"Не завершил обучение".**
 2. В один **приказ об отчислении** **с выпуском документа о квалификации**  попадут  все граждане одного потока, у кого закончилось обучение по потоку и выставлен статус в Odin **"Завершил обучение"**.
 
-![](<https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6FvCNXbpLxAd1ruRiugy%2Fuploads%2FhWXPB4Wd3puOfibXTZjm%2Fimage.png?alt=media&#x26;token=be6db0a7-dad7-4a9c-bef3-9089e8653637> "Пример приказа о зачислении в заявке гражданина в блоке "Обучение"")
-
+!\[\]([https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F6FvCNXbpLxAd1ruRiugy%2Fuploads%2FhWXPB4Wd3puOfibXTZjm%2Fimage.png?alt=media&token=be6db0a7-dad7-4a9c-bef3-9089e8653637](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces/6FvCNXbpLxAd1ruRiugy/uploads/hWXPB4Wd3puOfibXTZjm/image.png?alt=media&token=be6db0a7-dad7-4a9c-bef3-9089e8653637) "Пример приказа о зачислении в заявке гражданина в блоке "Обучение"")
