@@ -3,64 +3,69 @@ description: >-
   Проверка подписи доступна в в том сервисе, где вы проводили подписние
   документа
 order: 3.3
+title: Как проверить корректность открепленной подписи
 ---
 
-# Как проверить корректность открепленной подписи
+Проверка подписи доступна в том сервисе, где вы проводили подписание документа
 
 Проверить подпись можно в любом сервисе, где вы подписывали документы.
 
-Рассмотрим  2 примера:\
-
+Рассмотрим 2 примера:
 
 [tabs]
+
 [tab:КонтурКрипто]
-Проверка подписи в сервисе [https://crypto.kontur.ru/](https://crypto.kontur.ru/) бесплатна.
 
-1. Регистрация.
+Проверка подписи в сервисе <https://crypto.kontur.ru/> бесплатна.
 
-![](<../../.gitbook/assets/image (99).png>)
+1\.Регистрация.
 
-2. Начать использовать
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi.jpeg){width=854px height=1261px}
 
-![](<../../.gitbook/assets/image (100).png>)
+2\.Начать использовать
 
-3. Далее следует выбрать пункт "Проверка подписи" и загрузить файл в формате pdf.
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-2.jpeg){width=1655px height=774px}
 
+3\.Далее следует выбрать пункт "Проверка подписи" и загрузить файл в формате pdf.
 
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-3.jpeg){width=1196px height=783px}
 
-![](<../../.gitbook/assets/image (101).png>)
+4\.Далее выбрать файл с sig подписью этого документа
 
-4. Далее выбрать файл с sig подписью этого документа
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-4.jpeg){width=1179px height=798px}
 
-![](<../../.gitbook/assets/image (102).png>)
+5\.Нажать "Проверить подпись"
 
-5. Нажать "Проверить подпись"
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-5.jpeg){width=1187px height=1033px}
 
-![](<../../.gitbook/assets/image (103).png>)
+6\.В результате будет один из двух вариантов
 
-6. В результате будет один из двух вариантов\
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-6.jpeg){width=1451px height=631px}
 
+В первом варианте всё хорошо, во втором следует переподписать документ. То есть, скачать бланк и, **ничего в нем не меняя (не переименовывать бланк, не пересохранять его тем же названием)**, подписать ещё раз.
 
-![](<../../.gitbook/assets/image (104).png>)
-
-В первом варианте  всё хорошо, во втором следует переподписать документ. То есть, скачать бланк и,  **ничего в нем не меняя (не перименовывать бланк, не пересохранять его его тем же названием)**, подписать ещё раз.
 [/tab]
 
 [tab:КриптоАРМ]
-1. Откройте Крипто АРМ и выберите пункт "Проверить ЭП".
 
-![](<../../.gitbook/assets/image (105).png>)
+1\.Откройте Крипто АРМ и выберите пункт "Проверить ЭП".
 
-2. Выберите sig файл подписанного документа и нажмите Finish.
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-7.jpeg){width=1438px height=729px}
 
-![](<../../.gitbook/assets/image (106).png>)
+2\.Выберите sig файл подписанного документа и нажмите Finish.
 
-3. Дождитесь проверки.
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-8.jpeg){width=1439px height=724px}
 
-![](<../../.gitbook/assets/image (107).png>)
+3\.Дождитесь проверки.
 
-4. Проверьте детали подписи.
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-9.jpeg){width=1439px height=734px}
 
-![](<../../.gitbook/assets/image (108).png>)
+4\.Проверьте детали подписи.
+
+![](./kak-proverit-korrektnost-otkreplennoi-podpisi-10.jpeg){width=1437px height=733px}
+
 [/tab]
-{% endtabs %}
+
+[/tabs]
+
+
