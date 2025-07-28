@@ -91,7 +91,7 @@ order: 1
 
 ---
 
--  Личный кабинет гражданина
+-  [Личный кабинет гражданина](https://gramax.smile-tech.study/Flow_TSU_GR_help)
 
 -  [Общее](./scenarii/obshee/_index)
 
