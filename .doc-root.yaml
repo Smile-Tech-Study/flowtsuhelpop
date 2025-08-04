@@ -1,3 +1,28 @@
-title: Flow_TSU_OP_help
+title: Flow справка для Организации
 optionalCategoryIndex: true
 supportedLanguages: []
+properties: []
+link:
+  name: Flow_TSU_OP_help
+  pathname: github.com/Smile-Tech-Study/Flow_TSU_OP_help/main/-
+  logo: null
+  title: Flow_TSU_OP_help
+  query: {}
+  group: null
+  code: ""
+  style: null
+  description: null
+  order: 999999
+  isCloning: false
+  cloneCancelDisabled: false
+  redirectOnClone: null
+relatedLinks: []
+name: Flow_TSU_OP_help
+repositoryName: Flow_TSU_OP_help
+sourceName: github.com
+userInfo:
+  mail: kitlove51@list.ru
+  name: LyubovAsseyeva
+  id: kitlove51@list.ru
+logo: Logo 10 1.svg
+logo_dark: Logo 10 1.svg
