@@ -12,9 +12,9 @@ title: Как войти с Яндекс ID
 
 Ссылка для скачивания [RuStore](https://www.rustore.ru/catalog/app/ru.yandex.key)
 
-Ссылка для скачивания [Google Play](https://play.google.com/store/apps/details?id=ru.yandex.key) (Минимальная версия Android: Android 6.0. Рекомендуемая версия: Android 10+)
+Ссылка для скачивания [Google Play](https://play.google.com/store/apps/details?id=ru.yandex.key) 
 
-Ссылка для скачивания [App Store](https://apps.apple.com/ru/app/яндекс-ключ-ваши-пароли/id957324816) (Минимальная версия: iOS 15.0 или новее)
+Ссылка для скачивания [App Store](https://apps.apple.com/ru/app/яндекс-ключ-ваши-пароли/id957324816) 
 
 2\.Перейдите на [страницу авторизации](https://2025.flow.tgu-dpo.ru/Account/Login1FA). Если авторизированы, то необходимо выйти.
 
