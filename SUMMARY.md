@@ -73,19 +73,19 @@ order: 1
 
 ## Сценарии
 
--  [Как подписать электронной подписью?](./scenarii/README/_index)
+-  [Как подписать электронной подписью?](./scenarii/digital_signature/_index)
 
-   -  [КриптоПРО](./scenarii/README/kriptopro)
+   -  [КриптоПРО](./scenarii/digital_signature/kriptopro)
 
-   -  [КриптоАРМ](./scenarii/README/kriptoarm)
+   -  [КриптоАРМ](./scenarii/digital_signature/kriptoarm)
 
-   -  [Сертификат ГУЦ](./scenarii/README/sertifikat-guc)
+   -  [Сертификат ГУЦ](./scenarii/digital_signature/sertifikat-guc)
 
-   -  [Как проверить корректность открепленной подписи](./scenarii/README/kak-proverit-korrektnost-otkreplennoi-podpisi)
+   -  [Как проверить корректность открепленной подписи](./scenarii/digital_signature/kak-proverit-korrektnost-otkreplennoi-podpisi)
 
 -  [ViPNet: инструкция по подключению](./scenarii/vipnet-instrukciya-po-podklyucheniyu)
 
--  [Как войти с Яндекс.Ключ](./scenarii/kak-voiti-s-yandeks.klyuch)
+-  [Как войти с Яндекс ID](./scenarii/kak-voiti-s-yandeks.klyuch)
 
 -  [Как сделать рассылку?](./scenarii/kak-sdelat-rassylku)
 
