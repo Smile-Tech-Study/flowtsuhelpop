@@ -19,7 +19,7 @@ title: Как войти с помощью Authenticator App · 2FA
 
 #### 3\. ✅ **Готово!** Приложение установлено и готово к работе.
 
-[image:./dvukhfaktornaya-autentifikaciya.png:::0,0,100,100:32::563px:954px]
+[image:./dvukhfaktornaya-autentifikaciya.png:::0,0,100,100:32::563px:954px:center]
 
 #### 4\. Перейдите на страницу авторизации в системе Flow.
 
@@ -27,7 +27,7 @@ title: Как войти с помощью Authenticator App · 2FA
 
 -  Если аккаунт ещё не привязан к Authenticator App, на экране появится **QR-код**.
 
-   [image:./dvukhfaktornaya-autentifikaciya-2.png:::0,0,100,100:70::857px:451px]
+   [image:./dvukhfaktornaya-autentifikaciya-2.png:::0,0,100,100:70::857px:451px:center]
 
 #### 6\. В приложении нажмите «**Добавить коды 2FA**».
 
