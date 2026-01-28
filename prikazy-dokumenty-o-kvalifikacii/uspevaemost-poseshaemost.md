@@ -75,7 +75,7 @@ order: 0.1
 
 На РР вы заполняете **НЕ ЗАНЯТИЯ**, а **академические часы**.
 
-Для заполнения выгрузки для ЦЗН с данными для переноса на РР в активности в Odin вами должны быть выставлены академические часы. [Подробнее](https://gramax.smile-tech.study/helpOdin/instrukcii-po-rabote/dobavit-programmu-v-ramkakh-proekta-kadry/akademicheskie-chasy-v-poseshaemosti).
+Для заполнения выгрузки для ЦЗН с данными для переноса на РР в активности в Odin вами должны быть выставлены академические часы. [Подробнее](https://www.odin.study/help/instrukcii-po-rabote/dobavit-programmu-v-ramkakh-proekta-kadry).
 
 :::
 
