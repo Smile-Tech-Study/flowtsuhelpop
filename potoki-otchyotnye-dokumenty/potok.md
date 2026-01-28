@@ -8,7 +8,7 @@ order: 0.3
 
 ## Добавление потока
 
-Поток добавляется в Odin на странице программы. 
+Поток добавляется в Odin на странице программы. [Подробнее](https://www.odin.study/help/instrukcii-po-rabote/dobavit-programmu-v-ramkakh-proekta-kadry#%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%B0)
 
 **Потоки в Odin нужно добавлять ДО того, как программа будет опубликована.**
 
