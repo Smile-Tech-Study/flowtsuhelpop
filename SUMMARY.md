@@ -13,7 +13,7 @@ order: 1
 
 -  [Предложение о стоимости для программы](./spravochniki/predlozhenie-o-stoimosti-dlya-programmy)
 
--  [Средняя стоимость за программу](https://gramax.smile-tech.study/Flow_TSU_FO_help/spravochniki/srednyaya-stoimost-za-programmu)
+-  [Средняя стоимость за программу](./spravochniki/srednyaya-stoimost-za-programmu)
 
 ## Программы
 
@@ -91,7 +91,7 @@ order: 1
 
 ---
 
--  [Личный кабинет гражданина](https://gramax.smile-tech.study/Flow_TSU_GR_help)
+-  [Личный кабинет гражданина](./scenarii/lichnyy-kabinet-grazhdanina)
 
 -  [Общее](./scenarii/obshee/_index)
 
