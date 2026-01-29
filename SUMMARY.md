@@ -85,7 +85,7 @@ order: 1
 
 -  [ViPNet: инструкция по подключению](./scenarii/vipnet-instrukciya-po-podklyucheniyu)
 
--  [Как войти с Яндекс ID](./scenarii/kak-voiti-s-yandeks.klyuch)
+-  [Как войти с Яндекс ID](https://www.flow-crm.study/flowtsuhelpop/scenarii/kak-voiti-s-yandeks.klyuch)
 
 -  [Как сделать рассылку?](./scenarii/kak-sdelat-rassylku)
 
@@ -106,5 +106,3 @@ order: 1
 -  [Помощь](https://www.tgu-dpo.ru/form/)
 
 -  [Инструкции Работа России](./scenarii/instrukcii-rabota-rossii)
-
-
