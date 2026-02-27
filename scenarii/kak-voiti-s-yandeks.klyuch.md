@@ -22,7 +22,7 @@ title: Как войти с Яндекс ID
 
 4\.Если учетная запись ещё не привязана к Яндекс ID, то отобразится QR код.
 
-![](./kak-voiti-s-yandeks.klyuch-2.png){width=577px height=602px}
+![](./kak-voiti-s-yandeks.klyuch-2.png){width=564px height=590px}
 
 5\.Откройте Яндекс ID на телефоне и нажмите знак «+», чтобы добавить новый аккаунт.
 
