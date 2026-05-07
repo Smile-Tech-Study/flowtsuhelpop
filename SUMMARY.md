@@ -3,8 +3,6 @@ title: Содержание
 order: 1
 ---
 
-
-
 [html]
 
 <!DOCTYPE html>
@@ -53,20 +51,6 @@ order: 1
     padding-left: 48px;
   }
 
-  /* ── Legend ── */
-  .legend {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    margin-bottom: 1.25rem;
-    padding: 9px 14px;
-    background: #fff;
-    border: 1px solid #D8E4F0;
-    border-radius: 8px;
-  }
-  .leg { display: flex; align-items: center; gap: 5px; font-size: 11.5px; color: #6B7A8D; }
-  .leg-dot { width: 8px; height: 8px; border-radius: 50%; }
-
   /* ── Flow path label ── */
   .flow-label {
     font-size: 11px;
@@ -110,7 +94,6 @@ order: 1
   }
   .card:active { transform: translateY(0); }
 
-  /* Весь верх карточки — кликабельная ссылка */
   .card-link {
     display: block;
     text-decoration: none;
@@ -175,24 +158,7 @@ order: 1
     flex-shrink: 0;
     margin-top: 5px;
   }
-  /* Текст без ссылки в строке */
   .page-text { color: #6B7A8D; }
-
-  /* ── Tags ── */
-  .tag {
-    font-size: 9.5px;
-    font-weight: 600;
-    padding: 1px 5px;
-    border-radius: 3px;
-    white-space: nowrap;
-    line-height: 1.7;
-    flex-shrink: 0;
-    display: inline-block;
-  }
-  .tag-new   { background: #E2F4EE; color: #0A6B50; }
-  .tag-inter { background: #E4EFFC; color: #1558A8; }
-  .tag-move  { background: #FDF0D8; color: #9C5F08; }
-  .tag-del   { background: #FDEAEA; color: #992424; }
 
   /* ── Color themes ── */
   [data-color="blue"]   .card-accent { background: #1A6FD4; }
@@ -257,13 +223,6 @@ order: 1
 </div>
 <div class="header-sub">Справка для образовательных партнёров (ОП) — 9 разделов</div>
 
-<div class="legend">
-  <div class="leg"><div class="leg-dot" style="background:#0F8A6A"></div>Новый раздел</div>
-  <div class="leg"><div class="leg-dot" style="background:#1A6FD4"></div>Добавить интерактив</div>
-  <div class="leg"><div class="leg-dot" style="background:#C47A12"></div>Перенести / переименовать</div>
-  <div class="leg"><div class="leg-dot" style="background:#992424"></div>Удалить из меню</div>
-</div>
-
 <div class="flow-label">Путь пользователя</div>
 
 <div class="grid">
@@ -281,11 +240,11 @@ order: 1
       </div>
     </a>
     <ul class="card-pages">
-      <li class="page-item"><span class="tag tag-inter">интерактив</span>&nbsp;<span class="page-text">Схема ролей ОП / ФО / ЦЗН</span></li>
-      <li class="page-item"><span class="tag tag-inter">интерактив</span>&nbsp;<span class="page-text">Путь пользователя по шагам</span></li>
-      <li class="page-item"><span class="tag tag-new">новый</span>&nbsp;<span class="page-text">Глоссарий</span></li>
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/kak-voiti-s-yandeks.klyuch" target="_blank" rel="noopener">Вход через Яндекс ID</a></li>
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/dvukhfaktornaya-autentifikaciya" target="_blank" rel="noopener">Вход через 2FA</a></li>
+      <li class="page-item"><div class="page-dot"></div><span class="page-text">Схема ролей ОП / ФО / ЦЗН</span></li>
+      <li class="page-item"><div class="page-dot"></div><span class="page-text">Путь пользователя по шагам</span></li>
+      <li class="page-item"><div class="page-dot"></div><span class="page-text">Глоссарий</span></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/kak-voiti-s-yandeks.klyuch" target="_blank" rel="noopener">Вход через Яндекс ID</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/dvukhfaktornaya-autentifikaciya" target="_blank" rel="noopener">Вход через 2FA</a></li>
     </ul>
   </div>
 
@@ -324,7 +283,7 @@ order: 1
     </a>
     <ul class="card-pages">
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/programmy/rabota-s-programmoi" target="_blank" rel="noopener">Работа с программой</a></li>
-      <li class="page-item"><span class="tag tag-inter">интерактив</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/programmy/statusy-programm" target="_blank" rel="noopener">Статусы программ</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/programmy/statusy-programm" target="_blank" rel="noopener">Статусы программ</a></li>
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/programmy/publikaciya-programmy-na-portale-rabota-rossii" target="_blank" rel="noopener">Публикация на РР</a></li>
     </ul>
   </div>
@@ -368,7 +327,7 @@ order: 1
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/zayavki/kartochka-zayavki" target="_blank" rel="noopener">Карточка заявки</a></li>
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/zayavki/README" target="_blank" rel="noopener">Проверка документов</a></li>
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/zayavki/zamena-dokumentov" target="_blank" rel="noopener">Замена документов</a></li>
-      <li class="page-item"><span class="tag tag-inter">интерактив</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/zayavki/statusy-zayavok" target="_blank" rel="noopener">Статусы заявок</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/zayavki/statusy-zayavok" target="_blank" rel="noopener">Статусы заявок</a></li>
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/zayavki/dogovor-podpisannyi-vsemi-storonami" target="_blank" rel="noopener">Договор всех сторон</a></li>
     </ul>
   </div>
@@ -408,7 +367,7 @@ order: 1
     <ul class="card-pages">
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/prikazy-dokumenty-o-kvalifikacii/README-2" target="_blank" rel="noopener">Выпуск документов</a></li>
       <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/prikazy-dokumenty-o-kvalifikacii/README-2/massovyi-import" target="_blank" rel="noopener">Массовый импорт</a></li>
-      <li class="page-item"><span class="tag tag-new">новый</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/potoki-otchyotnye-dokumenty/eksport-dlya-fis-frdo" target="_blank" rel="noopener">Экспорт для ФИС ФРДО</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/potoki-otchyotnye-dokumenty/eksport-dlya-fis-frdo" target="_blank" rel="noopener">Экспорт для ФИС ФРДО</a></li>
     </ul>
   </div>
 
@@ -425,10 +384,10 @@ order: 1
       </div>
     </a>
     <ul class="card-pages">
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/digital_signature" target="_blank" rel="noopener">Электронная подпись</a></li>
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/vipnet-instrukciya-po-podklyucheniyu" target="_blank" rel="noopener">ViPNet</a></li>
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/kak-sdelat-rassylku" target="_blank" rel="noopener">Рассылка</a></li>
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/obshee/sinkhronizaciya-dannykh-po-programme-potoku-iz-odin-vo-flow" target="_blank" rel="noopener">Синхронизация с Odin</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/digital_signature" target="_blank" rel="noopener">Электронная подпись</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/vipnet-instrukciya-po-podklyucheniyu" target="_blank" rel="noopener">ViPNet</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/kak-sdelat-rassylku" target="_blank" rel="noopener">Рассылка</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/obshee/sinkhronizaciya-dannykh-po-programme-potoku-iz-odin-vo-flow" target="_blank" rel="noopener">Синхронизация с Odin</a></li>
     </ul>
   </div>
 
@@ -445,12 +404,10 @@ order: 1
       </div>
     </a>
     <ul class="card-pages">
-      <li class="page-item"><span class="tag tag-new">новый</span>&nbsp;<span class="page-text">Когда гражданин займёт квоту?</span></li>
-      <li class="page-item"><span class="tag tag-new">новый</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/obshee/kak-spiskom-posmotret-kolichestvo-zayavok-na-potok" target="_blank" rel="noopener">Кол-во заявок на поток</a></li>
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/obshee/roli-v-sisteme-flow" target="_blank" rel="noopener">Роли в системе</a></li>
-      <li class="page-item"><span class="tag tag-move">перенос</span>&nbsp;<a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/lichnyy-kabinet-grazhdanina" target="_blank" rel="noopener">ЛК гражданина</a></li>
-      <li class="page-item"><span class="tag tag-del">удалить</span>&nbsp;<span class="page-text">Ошибки и опечатки</span></li>
-      <li class="page-item"><span class="tag tag-del">удалить</span>&nbsp;<span class="page-text">Помощь (внешняя ссылка)</span></li>
+      <li class="page-item"><div class="page-dot"></div><span class="page-text">Когда гражданин займёт квоту?</span></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/obshee/kak-spiskom-posmotret-kolichestvo-zayavok-na-potok" target="_blank" rel="noopener">Кол-во заявок на поток</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/obshee/roli-v-sisteme-flow" target="_blank" rel="noopener">Роли в системе</a></li>
+      <li class="page-item"><div class="page-dot"></div><a href="https://www.flow-crm.study/flowtsuhelpop/scenarii/lichnyy-kabinet-grazhdanina" target="_blank" rel="noopener">ЛК гражданина</a></li>
     </ul>
   </div>
 
