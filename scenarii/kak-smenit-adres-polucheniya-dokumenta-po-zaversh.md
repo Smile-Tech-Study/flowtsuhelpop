@@ -5,7 +5,7 @@ title: Как сменить адрес получения документа п
 
 :::info 
 
-Гражданин может самостоятельно в своём личном кабинете заменить адрес доставки до того, пока вы не запланируете отправку документа о квалификации. [Подробнее](https://www.flow-crm.study/flowtsuhelpgr/voprosy/kak-smenit-adres-polucheniya-dokumenta-po-zaversh)
+Гражданин может самостоятельно в своём личном кабинете заменить адрес доставки до того, пока вы не [запланируете отправку](./kak-zablokirovat-dlya-slushatelya-izmenenie-adres) документа о квалификации. [Подробнее](https://www.flow-crm.study/flowtsuhelpgr/voprosy/kak-smenit-adres-polucheniya-dokumenta-po-zaversh)
 
 :::
 
